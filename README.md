@@ -22,13 +22,13 @@ Após o desenvolvimento do código avaliativo no Google Colab, foi desenvolvido 
 
 - <a href="https://stackoverflow.com/questions/74566350/get-a-separate-bar-for-each-row-in-plotly-when-data-has-duplicate-categories">Get a separate bar for each row in Plotly when data has duplicate categories</a>
 
-- <a href="(https://acervolima.com/python-pandas-dataframe-corr/)">Pandas dataframe Corr</a>
+- <a href="https://acervolima.com/python-pandas-dataframe-corr/">Pandas dataframe Corr</a>
 
-- <a href="(https://dash.plotly.com/datatable)">Dash DataTable</a>
+- <a href="https://dash.plotly.com/datatable">Dash DataTable</a>
 
-- <a href="(https://plotly.com/python/indicator/)">Plotly Indicator</a>
+- <a href="https://plotly.com/python/indicator/">Plotly Indicator</a>
 
-- <a href="(https://plotly.com/python/bar-charts/)">Plotly Bar Char</a>
+- <a href="https://plotly.com/python/bar-charts/">Plotly Bar Char</a>
 
-- <a href="(https://plotly.com/python/line-and-scatter/)">Plotly Line and Scatter</a>
+- <a href="https://plotly.com/python/line-and-scatter/">Plotly Line and Scatter</a>
 </p>
