@@ -1,41 +1,34 @@
 # Ciencia-de-Dados-LAPES
+<p>
 
+# Descrição
+O seguinte repositório foi criado para abrigar o projeto desenvolvido para o processo seletivo de ciência de dados do LAPES. Para a criação do código contendo os critérios avaliativos, foi utilizado um notebook no Google Colab.
+
+O ambiente Google Colab foi a escolha mais adequada para o desenvolvimento devido a sua praticidade de execução de código e fácil resolução de dependências das bibliotecas Python. A utilização do código escrito no Colab precisa, somente, do arquivo .csv para seu funcionamento. O notebook Colab possui, em cada célula de código, uma numeração da questão, um comentário descrevendo brevemente o que o código da célula faz e o código em si. Alguns códigos, como exigido pelo comando da questão, possuem um gráfico plotado utilizado a biblioteca plotly. Outros trechos de códigos, embora não exigido no comando da questão, possuem gráficos para melhor interpretação dos dados.
+
+Após o desenvolvimento do código avaliativo no Google Colab, foi desenvolvido também, uma aplicação de dashboard em Python. Embora não exigido, o dashboard permite visualizar os dados de forma concisa e objetiva. O dashboard, por sua vez, precisa das pasta assets no mesmo diretório(pasta) para funcionar adequadamente.
+
+# Aplicação de Dashboard
 <img src="/assets/imgs/img1.png">
 <img src="/assets/imgs/img2.png">
 
-# Propósito:
-
-<p style="text-align: justify">O projeto de dashboard a seguir é parte integrante da avaliação da disciplina de Probabilidade e Estatística Experimental no CESUPA. O objetivo deste projeto é familiarizar os alunos com o campo da ciência de dados, utilizando a linguagem de programação Python e as bibliotecas Pandas, Plotly e Dash. Além disso, busca-se aplicar os conhecimentos adquiridos ao longo do semestre de forma prática e interativa.
-
-# Descrição do Dashboard:
-
-
-<p style="text-align: justify;">O projeto consiste em um dashboard interativo dedicado a acompanhar as ações de cinco empresas de tecnologia: Microsoft, Amazon, Apple, Netflix e Google. Para alimentar esse painel, foram utilizado os dados de preços de ações provenientes da bolsa de valores NASDAQ. Esses dados foram obtidos por meio do repositório Kaggle: <a href="https://www.kaggle.com/datasets/soumendraprasad/stock">MAANG Historical Stock Market Data</a>.</p>
-
-Após o download desses dados, eles foram integrados ao aplicativo Dash. A partir desses dados, três tipos de gráficos foram gerados e são exibidos no dash:
-
-1 - **Gráfico de Linhas com Multicomparação**: Este gráfico oferece uma visão comparativa dos preços das ações ao longo do tempo para as empresas mencionadas. Isso permite uma rápida identificação de tendências e variações.
-
-2 - **Gráfico de Linhas com Indicador de Variação de Preços**: Neste gráfico, além dos preços das ações, é exibido um indicador que ressalta as variações de preços, proporcionando insights sobre movimentos significativos.
-
-3 - **Gráfico de Velas**: Este tipo de gráfico, conhecido como "candlestick chart", é utilizado para apresentar visualmente os preços de abertura, fechamento, máximo e mínimo das ações. Ele é útil para investidores devido a sua capacidade de fornecer informações extremamente precisas e identificação de tendências do mercado. 
-
-A escolha de criar um painel voltado para ações se deve à sua importância para investidores e empreendedores, que buscam análises de tendências e decisões de compra e venda de ações embasadas em dados sólidos. Em futuras versões do projeto, é planejada a inclusão de dados de ações em tempo real da NASDAQ, permitindo uma visualização atualizada das informações das empresas. Por enquanto, o painel disponibilizado oferece uma amostra de dados que abrange o período de 2001 a 2023, com foco específico nos anos de 2013 a 2023 em todos os gráficos apresentados.
-
-# Links Externos e Referências:
+# Links Externos e Referências :
 
 - <a href="https://dash.plotly.com">Dash Documentation</a>
 
-- <a href="https://dash-bootstrap-components.opensource.faculty.ai/docs/">Dash-Bootstrap-Components Documentation</a>
-
-- <a href="https://dash-bootstrap-components.opensource.faculty.ai/docs/components/">Dash-Bootstrap-Components Components</a>
-
-- <a href="https://github.com/AnnMarieW/dash-bootstrap-templates">Dash-Bootstrap-Templates QuickStart</a>
-
-- <a href="https://hellodash.pythonanywhere.com/bootstrap-utility-classes/bootstrap-utility-classes#background">Dash-Bootstrap-Template classes</a>
-
 - <a href="https://dashcheatsheet.pythonanywhere.com">Dash Bootstrap Cheatsheet</a> 
 
-- <a href="https://www.kaggle.com/datasets/soumendraprasad/stock">Dataset MAANG Historical Stock Market Data</a> 
+- <a href="https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/">How to use regex in pandas</a> 
 
+- <a href="https://stackoverflow.com/questions/74566350/get-a-separate-bar-for-each-row-in-plotly-when-data-has-duplicate-categories">Get a separate bar for each row in Plotly when data has duplicate categories</a>
+
+- <a href="(https://acervolima.com/python-pandas-dataframe-corr/)">Pandas dataframe Corr</a>
+
+- <a href="(https://dash.plotly.com/datatable)">Dash DataTable</a>
+
+- <a href="(https://plotly.com/python/indicator/)">Plotly Indicator</a>
+
+- <a href="(https://plotly.com/python/bar-charts/)">Plotly Bar Char</a>
+
+- <a href="(https://plotly.com/python/line-and-scatter/)">Plotly Line and Scatter</a>
 </p>
