@@ -1,7 +1,7 @@
 # Ciencia-de-Dados-LAPES
 
-<img src="/Assets/img/img1.png">
-<img src="/Assets/img/img2.png">
+<img src="/assets/img/img1.png">
+<img src="/assets/img/img2.png">
 
 # Propósito:
 
